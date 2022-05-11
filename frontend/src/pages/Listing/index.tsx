@@ -1,5 +1,4 @@
 function Listing() {
-  
   return (
     <div>Página de listágem</div>
   )
