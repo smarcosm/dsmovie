@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import MovieScore from '../../components/MovieScore';
-import Form from '../../pages/Form';
+
 
 
 function MovieCard() {
